@@ -1,5 +1,3 @@
-Hi...!!!
-
 # React Calculator
 
 React calculators are software applications it can be accessed via a web browser and used to perform a wide variety of mathematical calculations.
